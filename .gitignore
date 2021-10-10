@@ -26,6 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+settings.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+!/password_generator/password_generator/settings.py
+!/password_generator/password_generator/settings.py
