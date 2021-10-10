@@ -1,5 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponse
 
 
 # Create your views here.
@@ -17,6 +16,9 @@ def password(request):
 
     chars = list(alpha)
     length = int(request.GET.get('length', 12))
+
+    while int(request.GET.get('length')) > 25:
+        return render(request, 'generator/home.html')
 
     if request.GET.get('upper') == 'on':
         chars.extend(alpha.upper())
