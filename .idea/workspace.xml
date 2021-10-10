@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80eb4129-329a-458f-8b05-245b830b6e71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stackskills.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/generator/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/password_generator/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/password_generator/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/password_generator/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/password_generator/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1082376/password_generator/password_generator/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zK0SmaxVJNk2UQihxj9DApKLm8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="stackskills" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="stackskills" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80eb4129-329a-458f-8b05-245b830b6e71" name="Changes" comment="" />
+      <created>1633881474775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633881474775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
