@@ -1,1 +1,10 @@
-blog
+<h1>Richard's Coding Blog</h1>
+<br>
+
+{% for blog_post in blog_posts %}
+<h2>{{ blog_post.title }}</h2>
+<h4>{{ blog_post.description }}</h4>
+{{ blog_post.date }}
+<br>
+<br>
+{% endfor %}
